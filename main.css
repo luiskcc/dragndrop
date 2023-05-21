@@ -54,3 +54,26 @@ header {
     text-align: center;
     margin: 4px 0px;
 }
+#Prospecting {
+    background-color: rgb(83, 109, 251);
+}
+
+#Qualification {
+    background-color: rgba(83, 210, 248, 0.941);
+}
+
+#NeedAnalysis {
+    background-color: rgb(83, 194, 163);
+}
+
+#Proposal {
+    background-color: rgb(83, 201, 13);
+}
+
+#Negotiation {
+    background-color: rgb(234, 246, 99);
+}
+
+#ClosingDeal {
+    background-color: rgb(248, 133, 52);
+}
