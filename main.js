@@ -34,7 +34,14 @@ for (let i = 0; i < list_items.length; i++) {
 
         list.addEventListener('drop', function (e) {
             this.append(draggedItem);
+
+
+
+            
         });
 
     }
+
+    
 }
+
