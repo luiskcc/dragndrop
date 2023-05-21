@@ -2,7 +2,7 @@
 Drag and drop prototype for Sales Pipeline
 
 
--Using HTML, CSS and JS Vanilla in VScode
+Using HTML, CSS and JS Vanilla in VScode
 
 Set up the HTML structure: Create an HTML file and set up the basic structure. Divide the page into 6 columns Prospecting, Qualification, Need Analysis, Proposal, Negotiation y Closing Deal representing each stage of the sales pipeline. You can use
 
